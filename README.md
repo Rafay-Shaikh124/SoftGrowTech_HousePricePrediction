@@ -16,7 +16,7 @@ This project predicts house prices using Linear Regression.
 - Evaluation (MAE, R2)
 
 ## ▶️ Run
-pip install -r requirements.txt
+pip install -r requirements_t2.txt
 python house_price.py
 
 ## 👨‍💻 Author
